@@ -1,11 +1,6 @@
 # Corrupt-Formmatted-SD-Card-Recovery-Software
 Recover precious files and photos from corrupt or inaccessible SD Card or compact flash card at your finger tips. 
-Download Stellar Phoenix Photo Recovery, advanced <a href="http://www.stellarinfo.com/article/sd-card-recovery.php"
->SD Card File Recovery Software</a> to address digital media files loss instances 
-from various storage platforms i.e. Memory card, SD card, USB, Flash drive, Internal or External hard drive etc. Connect your problem SD card externally 
-via USB adapter or connect the device on which, sd card is inserted
-This software performs well even on severely damaged or virus infected flash based drives and recover files with thier actuall 
-file and folder names.
+Download Stellar Phoenix Photo Recovery, advanced <a href="http://www.stellarinfo.com/article/sd-card-recovery.php">SD Card File Recovery Software</a> to address digital media files loss instances from various storage platforms i.e. Memory card, SD card, USB, Flash drive, Internal or External hard drive etc. Connect your problem SD card externally via USB adapter or connect the device on which, sd card is inserted. This software performs well even on severely damaged or virus infected flash based drives and recover files with thier actual file and folder names.
 
 <b>Features</b><br/>
 <li>Installs in seconds. No prior hands on experience needed</li><br />
